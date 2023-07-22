@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 3e813cff120fda94cbc76b59bfca5600
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1040
+        width: 95
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ef3f13a87b7049a8b6d5ceda415df
+      internalID: -1937834501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1040
+        width: 48
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90cb4d08d9f584e81e70449fb20b4a
+      internalID: 1991786463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1040
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe01b42a8a972746a0a6c62c6ad53dd
+      internalID: 698980337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1040
+        width: 82
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40190debb2d673c4788f7704c09fd7fe
+      internalID: -452455800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1040
+        width: 85
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b7897ab8b99a4d975890428fcba53
+      internalID: 846939948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 817
+        width: 380
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf0fd6504fa995458126b13648230f9
+      internalID: 1350662304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 879
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69b77ceedf6c14c9f29f779f01163e
+      internalID: 796530995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 823
+        width: 105
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132cea273e07cf489d5e28cf7c7a1a1
+      internalID: 1344540265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 821
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5b1402d43f5248ad753a3fb8ae7b2
+      internalID: -703561934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 823
+        width: 105
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569a6ff53ba78a449c91812b97014e0
+      internalID: -220433161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 879
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4c80dcbeda9046958296c68ada859
+      internalID: -107451003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 466
+        width: 830
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249142f99e056940aa3574d779e2a0e
+      internalID: -1085914245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 179
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d893303564a04496f0ec12818032a
+      internalID: 1704845437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 141
+        width: 495
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c07e4b84fcaa46ae0e818b16c7cdc
+      internalID: -89940078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GR DAN 557-25-PhotoRoom-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 482
+        width: 463
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb94cd81b4c38d43b6de1cbc54b5936
+      internalID: 361082703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GR DAN 557-25-PhotoRoom-PhotoRoom_9: -220433161
+      GR DAN 557-25-PhotoRoom-PhotoRoom_0: -1937834501
+      GR DAN 557-25-PhotoRoom-PhotoRoom_6: 796530995
+      GR DAN 557-25-PhotoRoom-PhotoRoom_10: -107451003
+      GR DAN 557-25-PhotoRoom-PhotoRoom_12: -1085914245
+      GR DAN 557-25-PhotoRoom-PhotoRoom_4: 846939948
+      GR DAN 557-25-PhotoRoom-PhotoRoom_11: 1247204259
+      GR DAN 557-25-PhotoRoom-PhotoRoom_14: -89940078
+      GR DAN 557-25-PhotoRoom-PhotoRoom_8: -703561934
+      GR DAN 557-25-PhotoRoom-PhotoRoom_13: 1704845437
+      GR DAN 557-25-PhotoRoom-PhotoRoom_7: 1344540265
+      GR DAN 557-25-PhotoRoom-PhotoRoom_1: 1991786463
+      GR DAN 557-25-PhotoRoom-PhotoRoom_5: 1350662304
+      GR DAN 557-25-PhotoRoom-PhotoRoom_3: -452455800
+      GR DAN 557-25-PhotoRoom-PhotoRoom_2: 698980337
+      GR DAN 557-25-PhotoRoom-PhotoRoom_15: 361082703
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
