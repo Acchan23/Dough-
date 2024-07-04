@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PuntoFinal
   - Enemy
+  - Food
   layers:
   - Default
   - TransparentFX

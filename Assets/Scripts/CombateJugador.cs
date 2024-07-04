@@ -14,15 +14,21 @@ public class CombateJugador : MonoBehaviour
     private Slider slider;
     public Image relleno;
 
-
-    
-
     private Animator animator;
 
     public void Start()
     {
         vida = maximoVida;
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();   
+        
+    }
+
+    
+
+    private void Update()
+    {
+        relleno.fillAmount = vida / maximoVida;
+
 
     }
 
@@ -38,12 +44,8 @@ public class CombateJugador : MonoBehaviour
         MovimientoCamara.Instance.MoverCamara(10, 10, 4f);
         vida -= dano;
         
-        animator.SetTrigger("Golpe");
-        if (vida <= 0)
-        {
-            MuerteJugador?.Invoke(this, EventArgs.Empty);
-            Destroy(gameObject);
-        }
+        animator.SetTrigger("fire");
+        
          
     }
     
@@ -82,10 +84,5 @@ public class CombateJugador : MonoBehaviour
             vida += curacion;
         }
     }
-
-    void Update()
-    {
-        relleno.fillAmount = vida / maximoVida;
-        
-    }
+    
 }

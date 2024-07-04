@@ -49,12 +49,12 @@ public class PlayerMove : MonoBehaviour
         {
             if (rb2D.velocity.y < 0)
             {
-                rb2D.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier) * Time.deltaTime;
+                rb2D.velocity += (fallMultiplier) * Physics2D.gravity.y * Time.deltaTime * Vector2.up;
             }
 
             if (rb2D.velocity.y > 0 && !Input.GetKey("space"))
             {
-                rb2D.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier) * Time.deltaTime;
+                rb2D.velocity += (lowJumpMultiplier) * Physics2D.gravity.y * Time.deltaTime * Vector2.up;
             }
         }
     }

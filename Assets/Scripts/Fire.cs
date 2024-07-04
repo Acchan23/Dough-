@@ -26,8 +26,8 @@ public class Fire : MonoBehaviour
                 tiempoSiguienteDano = tiempoEntreDano;
                 DoughArdido?.Invoke(this, EventArgs.Empty);
                 burnt.gameObject.SetActive(true);
-                animator.SetTrigger("Burnt");
                 other.gameObject.GetComponent<Animator>();
+                animator.SetTrigger("burnt");
             }
 
             

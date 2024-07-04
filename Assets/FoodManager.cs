@@ -4,20 +4,26 @@ using UnityEngine;
 
 public class FoodManager : MonoBehaviour
 {
+    [SerializeField] public GameObject victory;
 
     private void Update()
     {
-        AllFoodCollected();
+        victory.SetActive(false);
     }
 
-    public void AllFoodCollected()
+    public void FixUpdate()
     {
         if (transform.childCount==0)
         {
-            Debug.Log("No quedan frutas, Victoria");
+            Debug.Log("¡Ganaste la Demo! Gracias por jugar");
+            Show();
+            
         }
     }
 
-
+    public void Show()
+    {
+        victory.SetActive(true);
+    }
 
 }
